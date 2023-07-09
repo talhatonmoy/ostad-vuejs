@@ -8,5 +8,5 @@ function sumNumbers(...numbers) {
 }
 
 
-const suma = sumNumbers(1, 2, 3, 4,5);
-console.log(suma);
+const getsum = sumNumbers(1, 2, 3, 4,5);
+console.log(getsum);
