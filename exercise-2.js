@@ -10,3 +10,4 @@ function sumNumbers(...numbers) {
 
 const getsum = sumNumbers(1, 2, 3, 4,5);
 console.log(getsum);
+
