@@ -1,5 +1,8 @@
-let a = 10
 
-a &&= 20
+function getLargestNumber(num1, num2) {
+    return num1 > num2 ? num1 : num2 
+}
 
-console.log(a)
+
+const largestNum = getLargestNumber(10, 5);
+console.log(largestNum);
